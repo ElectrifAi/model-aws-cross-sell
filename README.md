@@ -1,4 +1,4 @@
-# Cross Sell Financial Services
+# Cross Sell
 
 ## Description
 Precisely target high-propensity customers via 360-degree customer characteristics (such as company relationship, wallet size and product demand) to predict score of cross-sell propensity. 
